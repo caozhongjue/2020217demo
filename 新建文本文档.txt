@@ -1,12 +1,13 @@
-1¡¢ÏÂÔØ°²×°git¿Í»§¶Ë¹¤¾ß
-2¡¢ÏÂÔØ°²×°node
-3¡¢´ò¿ªgit¿Í»§¶Ë¹¤¾ßÉú³ÉÃÜÔ¿
-4¡¢°ÑÃÜÔ¿¹ØÁªµ½githubsshkey
-5¡¢×¢²ágithubÕËºÅ°Ñ¹ÙÔ¿·Å½øÈ¥
-6¡¢½¨Á¢Ò»¸ö²Ö¿â
-7¡¢ÔÚ±¾µØ½¨Á¢Ò»¸öÎÄ¼þ¼Ð
-8¡¢³õÊ¼»¯±¾µØgit init
-9¡¢git add ./ °ÑÄÚÈÝÌí¼ÓÔÝ´æÇø
-10¡¢git commit -m '202020' °ÑÄÚÈÝ´ÓÔÝ´æÇøÌí¼Óµ½¹¤×÷¿Õ¼ä
-11¡¢git remote add origin '' ¹ØÁªÔ¶³Ì¹¤×÷¿Õ¼ä
-12¡¢git push -u origin master °Ñ±¾µØµÄÄÚÈÝÍÆËÍµ½Ô¶³Ì¿Õ¼ä
+1ã€ä¸‹è½½å®‰è£…gitå®¢æˆ·ç«¯å·¥å…·
+2ã€ä¸‹è½½å®‰è£…node
+3ã€æ‰“å¼€gitå®¢æˆ·ç«¯å·¥å…·ç”Ÿæˆå¯†é’¥
+4ã€æŠŠå¯†é’¥å…³è”åˆ°githubsshkey
+5ã€æ³¨å†Œgithubè´¦å·æŠŠå®˜é’¥æ”¾è¿›åŽ»
+6ã€å»ºç«‹ä¸€ä¸ªä»“åº“
+7ã€åœ¨æœ¬åœ°å»ºç«‹ä¸€ä¸ªæ–‡ä»¶å¤¹
+8ã€åˆå§‹åŒ–æœ¬åœ°git init
+9ã€git add ./ æŠŠå†…å®¹æ·»åŠ æš‚å­˜åŒº
+10ã€git commit -m '202020' æŠŠå†…å®¹ä»Žæš‚å­˜åŒºæ·»åŠ åˆ°å·¥ä½œç©ºé—´
+11ã€git remote add origin '' å…³è”è¿œç¨‹å·¥ä½œç©ºé—´
+12ã€git push -u origin master æŠŠæœ¬åœ°çš„å†…å®¹æŽ¨é€åˆ°è¿œç¨‹ç©ºé—´
+...........
